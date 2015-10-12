@@ -1,0 +1,3 @@
+Ein Chatsystem, das Professoren und Studierende nutzen können, um wärend Sprechzeiten zu kommunizieren.
+Der Chat ermöglicht den Kontakt zu Professoren auch wenn man nicht persönlich zur Sprechstunde erscheinen kann.
+Es soll eine Möglchkeit geben verschiedene Channel zu erstellen und User-Accounts anzulegen.
